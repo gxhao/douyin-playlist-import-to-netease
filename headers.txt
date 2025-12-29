@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Date: Mon, 29 Dec 2025 07:19:35 GMT
+Location: https://music.douyin.com/qishui/share/playlist?playlist_id=7384450241053507623&sec_sharer_id=MS4wLjABAAAAXt4RFnUkr-CxVrI0o4uwZNg_XrAUQ2NsFuUooJFD-dM&hybrid_sdk_version=bullet&auto_play_bgm=1&share_ab=15306229_15306229_
+X-Tt-Logid: 20251229151935698941CB5EC775C6B3BA
+Server-Timing: inner; dur=44,tt_agw; dur=39
+x-tt-trace-host: 0166e006fafb5708a203155e0e72d3e157b897d1b4c327155e480ac4b5ca7e46b8d05d85e4733e5beaba7a57f1f307bfe459462a61bf43339c50f63746fb8e5b2874dd15545e6b77ef6e44af0dfb6032aa2aea2c2db350f1edd2fca054f4fb5e23e31177425ff439d1ff57d7ae309b093f
+x-tt-trace-tag: id=03;cdn-cache=miss;type=dyn
+x-tt-trace-id: 00-251229151935698941CB5EC775C6B3BA-5DA483460C8F3E8B-00
+Via: cache57.l2cn3031[61,0], cache31.cn7270[78,0]
+Timing-Allow-Origin: *
+EagleId: 3ad79bb317669927751166813e
+
