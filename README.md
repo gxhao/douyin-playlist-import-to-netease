@@ -40,3 +40,6 @@ Create a Go program `importneteasemuscic.go` that takes a Douyin/Qishui playlist
 - Run `go run importneteasemuscic.go` with the provided Douyin URL.
 - Verify that song titles are printed to the console.
 - (Later) Verify songs are added to NetEase.
+
+<img width="628" height="566" alt="3ca2c5efc77328123fb43900520259b6" src="https://github.com/user-attachments/assets/b5832d6e-b66d-4979-93ba-0a1e097cb557" />
+
